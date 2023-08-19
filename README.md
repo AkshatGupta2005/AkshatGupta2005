@@ -1,4 +1,4 @@
-<img src="https://ibb.co/8rtq3v4" alt= "intro page" />
+![Image Description](https://ibb.co/8rtq3v4)
 🚀 Exploring Bytes and Beyond! | Web Dev Maverick | AI Dreamweaver | Tech Voyager 🌌
 
 🌐 Unraveling the Digital Tapestry:
