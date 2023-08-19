@@ -1,3 +1,4 @@
+![Akshat Gupta (2)](https://github.com/AkshatGupta2005/AkshatGupta2005/assets/131792745/9246c8e1-745c-4a7e-9238-295d2e4b47e8)
 🚀 Exploring Bytes and Beyond! | Web Dev Maverick | AI Dreamweaver | Tech Voyager 🌌
 
 🌐 Unraveling the Digital Tapestry:
