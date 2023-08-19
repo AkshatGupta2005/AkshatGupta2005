@@ -1,3 +1,4 @@
+<img src="./Akshat Gupta (2).png" src="Hi I am Akshat" />
 🚀 Exploring Bytes and Beyond! | Web Dev Maverick | AI Dreamweaver | Tech Voyager 🌌
 
 🌐 Unraveling the Digital Tapestry:
