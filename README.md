@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFr-fPK9ho/ku8IyvNj53CLl3G9SN2AXw/edit?utm_content=DAFr-fPK9ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt= "intro page" />
+<img src="https://ibb.co/8rtq3v4" alt= "intro page" />
 🚀 Exploring Bytes and Beyond! | Web Dev Maverick | AI Dreamweaver | Tech Voyager 🌌
 
 🌐 Unraveling the Digital Tapestry:
