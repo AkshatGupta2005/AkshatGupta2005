@@ -1,1 +1,1 @@
-https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67
+[![An image of @akshatgupta2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatgupta2005)](https://holopin.io/@akshatgupta2005)
