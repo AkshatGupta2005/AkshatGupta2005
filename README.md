@@ -16,5 +16,6 @@ When I'm not conjuring code, you'll find me immersed in sci-fi sagas, experiment
 Join me on this cosmic code odyssey! From forging pixel galaxies to sculpting AI constellations, together, we'll propel technology into new dimensions. 🚀🛸
 
 [![Akshat Gupta profile views](https://u8views.com/api/v1/github/profiles/131792745/views/day-week-month-total-count.svg)](https://u8views.com/github/AkshatGupta2005)
-<figure><embed src="https://wakatime.com/share/@871ccfec-9fe0-4579-9251-eb6a8d39177e/3dc24a80-4f73-45b0-b94e-4a225da4c4f4.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@871ccfec-9fe0-4579-9251-eb6a8d39177e/e43a06e8-8767-44f1-8030-ed549b22bcb9.png
+    :target: https://wakatime.com/
 [![An image of @akshatgupta2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatgupta2005)](https://holopin.io/@akshatgupta2005)
