@@ -1,4 +1,4 @@
-![Akshat Gupta (2)](https://github.com/AkshatGupta2005/AkshatGupta2005/assets/131792745/9246c8e1-745c-4a7e-9238-295d2e4b47e8)
+![Untitled design](https://github.com/user-attachments/assets/b691b39a-a7ea-40f5-8d36-5a18a02775f4)
 🚀 Exploring Bytes and Beyond! | Web Dev Maverick | AI Dreamweaver | Tech Voyager 🌌
 🌐 Unraveling the Digital Tapestry:
 Hey, I'm Akshat Gupta, a code whisperer in the making! From crafting pixel symphonies in web development to unraveling the neural symmetries of AI, I'm on a quest to decode the language of tech.
