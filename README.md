@@ -39,7 +39,9 @@ Join me on this cosmic code odyssey! From forging pixel galaxies to sculpting AI
   <img src="https://github-readme-stats.vercel.app/api?username=AkshatGupta2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 [![An image of @akshatgupta2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatgupta2005)](https://holopin.io/@akshatgupta2005)
+
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
