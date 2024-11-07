@@ -33,3 +33,16 @@ Join me on this cosmic code odyssey! From forging pixel galaxies to sculpting AI
 [![Akshat Gupta profile views](https://u8views.com/api/v1/github/profiles/131792745/views/day-week-month-total-count.svg)](https://u8views.com/github/AkshatGupta2005)
 
 [![An image of @akshatgupta2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatgupta2005)](https://holopin.io/@akshatgupta2005)
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatguptaip">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AkshatGupta2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/_Gupta_Akshat">
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
