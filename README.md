@@ -34,7 +34,7 @@ Join me on this cosmic code odyssey! From forging pixel galaxies to sculpting AI
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-[![wakatime](https://wakatime.com/badge/user/871ccfec-9fe0-4579-9251-eb6a8d39177e.svg)](https://wakatime.com/@871ccfec-9fe0-4579-9251-eb6a8d39177e)
+[![wakatime]](https://wakatime.com/@871ccfec-9fe0-4579-9251-eb6a8d39177e)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshatGupta2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta2005&layout=compact&theme=radical" alt="Top Languages"/>
