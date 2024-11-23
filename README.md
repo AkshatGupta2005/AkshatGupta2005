@@ -34,31 +34,7 @@ Join me on this cosmic code odyssey! From forging pixel galaxies to sculpting AI
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div class="navbarContainter">
-<div class="navbar">
-    <div class="logoBox">
-        <div class="logoImg"></div>
-        <div class="logoTitle">Readdy Blog</div>
-    </div>
-    <div class="searchBox">
-        <form action="/search">
-            <input type="text" name="bookName" class="searchBar" placeholder="Search Books/ Authors">
-            <input type="submit" class="submitBtn" value="">
-        </form>
-    </div>
-    <div class="navBarOption">
-        <% if (locals.userid) { %>
-            <form action="/profile">
-                <input type="submit" class="loginBtn" value="Profile">
-            </form>
-        <% } else { %>
-            <form action="/login">
-                <input type="submit" class="loginBtn" value="Login">
-            </form>
-        <% } %> 
-    </div>
-</div>
-</div>
+[![wakatime](https://wakatime.com/badge/user/871ccfec-9fe0-4579-9251-eb6a8d39177e.svg)](https://wakatime.com/@871ccfec-9fe0-4579-9251-eb6a8d39177e)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshatGupta2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta2005&layout=compact&theme=radical" alt="Top Languages"/>
