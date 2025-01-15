@@ -1,14 +1,14 @@
 ![Untitled design](https://github.com/user-attachments/assets/b691b39a-a7ea-40f5-8d36-5a18a02775f4)
-<h1 align="center">👋 Hi, I'm Akshat Gupta!</h1>
+<h1 align="center">GM GM Fellas, I'm Akshat Gupta!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&width=435&lines=Full-Stack+MERN+Developer;AI+and+Web3+Enthusiast;Open-Source+Contributor;Aspiring+Tech+Innovator" alt="Typing SVG" />
 </p>
 ---
 <p align="center">
-🌟 <b>2nd-Year Computer Science Student at LNCTS</b><br />
-💻 MERN Stack Developer | Passionate about AI & Web3<br />
-📚 Open-Source Contributor | Lifelong Learner<br />
-🎨 Building engaging websites and tools that make a difference
+<b>2nd-Year Computer Science Student at LNCTS</b><br />
+MERN Stack Developer | Passionate about AI & Web3<br />
+Open-Source Contributor | Lifelong Learner<br />
+Building engaging websites and tools that make a difference
 </p>
 ---
 <h3 align="center">🛠️ Tech Stack</h3>
