@@ -3,14 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&width=435&lines=Full-Stack+MERN+Developer;AI+and+Web3+Enthusiast;Open-Source+Contributor;Aspiring+Tech+Innovator" alt="Typing SVG" />
 </p>
----
 <p align="center">
 <b>2nd-Year Computer Science Student at LNCTS</b><br />
 MERN Stack Developer | Passionate about AI & Web3<br />
 Open-Source Contributor | Lifelong Learner<br />
 Building engaging websites and tools that make a difference
 </p>
----
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
